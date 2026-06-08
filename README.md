@@ -234,7 +234,9 @@ Key feature engineering steps include:
 - **Holiday cleanup** to handle transferred holidays, bridge holidays, and national/local holiday effects.
 - **Earthquake recovery feature** to represent the April 2016 Ecuador earthquake impact and recovery window.
 - **Cyclical calendar encoding** using sine and cosine transformations for periodic features. Converted calendar indices (day of week, day of month, month) into continuous trigonometric variables to ensure smooth transitions between calendar boundaries.
+
 $$\text{Feature}_{\sin} = \sin\left(\frac{2\pi \times \text{value}}{\text{period}}\right), \quad \text{Feature}_{\cos} = \cos\left(\frac{2\pi \times \text{value}}{\text{period}}\right)$$
+
 - **Lag and rolling features** for time-series memory.
 - **Weekly aggregation** for model training and inventory optimization compatibility.
 
