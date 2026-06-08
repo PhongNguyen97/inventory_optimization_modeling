@@ -1,0 +1,529 @@
+store_nbr,family,cluster,city,state,type
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D
+1,AUTOMOTIVE,13,Quito,Pichincha,D
+1,BABY CARE,13,Quito,Pichincha,D
+1,BEAUTY,13,Quito,Pichincha,D
+1,BEVERAGES,13,Quito,Pichincha,D
+1,BOOKS,13,Quito,Pichincha,D
+1,BREAD/BAKERY,13,Quito,Pichincha,D
+1,CELEBRATION,13,Quito,Pichincha,D
+1,CLEANING,13,Quito,Pichincha,D
+1,DAIRY,13,Quito,Pichincha,D
+1,DELI,13,Quito,Pichincha,D
+1,EGGS,13,Quito,Pichincha,D
+1,FROZEN FOODS,13,Quito,Pichincha,D
+1,GROCERY I,13,Quito,Pichincha,D
+1,GROCERY II,13,Quito,Pichincha,D
+1,HARDWARE,13,Quito,Pichincha,D
+1,HOME AND KITCHEN I,13,Quito,Pichincha,D
+1,HOME AND KITCHEN II,13,Quito,Pichincha,D
+1,HOME APPLIANCES,13,Quito,Pichincha,D
+1,HOME CARE,13,Quito,Pichincha,D
+1,LADIESWEAR,13,Quito,Pichincha,D
+1,LAWN AND GARDEN,13,Quito,Pichincha,D
+1,LINGERIE,13,Quito,Pichincha,D
+1,"LIQUOR,WINE,BEER",13,Quito,Pichincha,D
+1,MAGAZINES,13,Quito,Pichincha,D
+1,MEATS,13,Quito,Pichincha,D
+1,PERSONAL CARE,13,Quito,Pichincha,D
+1,PET SUPPLIES,13,Quito,Pichincha,D
+1,PLAYERS AND ELECTRONICS,13,Quito,Pichincha,D
+1,POULTRY,13,Quito,Pichincha,D
+1,PREPARED FOODS,13,Quito,Pichincha,D
+1,PRODUCE,13,Quito,Pichincha,D
+1,SCHOOL AND OFFICE SUPPLIES,13,Quito,Pichincha,D
+1,SEAFOOD,13,Quito,Pichincha,D

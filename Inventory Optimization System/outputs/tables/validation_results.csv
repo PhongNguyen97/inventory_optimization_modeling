@@ -1,0 +1,4 @@
+family,fill_rate,cycle_service_level,avg_inventory,num_orders,units_short,validation_status
+GROCERY I,0.9916,0.9313,609857.95,3,36107.05,Pass
+BEVERAGES,0.9966,0.9847,687134.05,3,12874.64,Pass
+CLEANING,1.0000,1.0000,446039.91,3,0.00,Pass

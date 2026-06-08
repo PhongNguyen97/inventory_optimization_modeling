@@ -1,0 +1,13 @@
+Model,Parameters,MAE,RMSE,MAPE
+Decision Tree (Tuned) (Recursive),{'max_depth': 10},124626.88683354859,281821.06514309463,0.7573205087974627
+Random Forest (Tuned) (Recursive),"{'max_depth': 14, 'n_estimators': 50}",150624.37127940537,322683.1964860047,0.895190523653531
+Gradient Boost (Tuned) (Recursive),"{'max_depth': 1, 'n_estimators': 25}",155221.43775790816,268175.4128299851,1.0234404513179063
+XGBoost (Tuned) (Recursive),"{'max_depth': 4, 'n_estimators': 75}",143976.8702536125,321307.90894371027,0.8218459545235618
+Basic NN (Tuned) (Recursive),"{'hidden_1': 32, 'hidden_2': 16, 'epochs': 20, 'lr': 0.005}",446371.9305387681,680363.0312619616,0.9981398270235623
+LSTM (Tuned) (Recursive),"{'hidden_fc': 40, 'hidden_lstm': 80, 'epochs': 20, 'lr': 0.005}",314897.0349596585,534965.3558955374,0.6118041932478188
+Decision Tree (Tuned) (Direct),{'max_depth': 3},151228.97144055646,309502.3489725174,0.8880259476498121
+Random Forest (Tuned) (Direct),"{'max_depth': 14, 'n_estimators': 25}",153610.8094143457,316775.1326936668,0.8633138816837416
+Gradient Boost (Tuned) (Direct),"{'max_depth': 3, 'n_estimators': 100}",132810.14711366603,278788.3153103531,0.7484740711619684
+XGBoost (Tuned) (Direct),"{'max_depth': 3, 'n_estimators': 100}",128764.45835548751,243801.0646893472,0.7097601606693511
+Basic NN (Tuned) (Direct),"{'hidden_1': 16, 'hidden_2': 24}",447734.3975256121,683326.3574545367,0.9996604551292407
+LSTM (Tuned) (Direct),"{'hidden_fc': 40, 'hidden_lstm': 80}",356176.19565173564,584129.790133947,0.8394734750788668

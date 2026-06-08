@@ -1,0 +1,4 @@
+family,policy_type,lead_time,review_period,risk_period,safety_stock,reorder_point,order_quantity,order_up_to_level,fill_rate,cycle_service_level,total_cost,avg_inventory,num_orders,units_short
+GROCERY I,"(s,Q)",1,,1,487622.5629,1750781.1485,314433.5782,,0.9916,0.9313,543439.8849,609857.9468,3.0,36107.0453
+BEVERAGES,"(s,Q)",1,,1,588068.7255,1565680.611,260348.0185,,0.9966,0.9847,156552.7656,687134.0486,3.0,12874.6373
+CLEANING,"(R,S)",1,1.0,2,0.0,,,798371.8172,1.0,1.0,1361.6536,446039.9143,3.0,0.0

@@ -1,0 +1,529 @@
+date,family,onpromotion,store_nbr,holiday_type,oil_price,locale,locale_name,description,transferred,is_holiday,is_bridge_day,is_local_holiday,days_since_earthquake,city,state,type,cluster
+2017-08-16,AUTOMOTIVE,0,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,BABY CARE,0,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,BEAUTY,108,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,BEVERAGES,1706,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,BOOKS,0,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,BREAD/BAKERY,753,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,CELEBRATION,0,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,CLEANING,1452,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,DAIRY,4577,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,DELI,975,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,EGGS,56,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,FROZEN FOODS,54,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,GROCERY I,4279,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,GROCERY II,0,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,HARDWARE,0,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,HOME AND KITCHEN I,111,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,HOME AND KITCHEN II,320,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,HOME APPLIANCES,0,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,HOME CARE,709,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,LADIESWEAR,41,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,LAWN AND GARDEN,842,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,LINGERIE,255,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,"LIQUOR,WINE,BEER",509,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,MAGAZINES,0,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,MEATS,1,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,PERSONAL CARE,972,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,PET SUPPLIES,0,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,PLAYERS AND ELECTRONICS,8,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,POULTRY,10,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,PREPARED FOODS,8,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,PRODUCE,12059,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,SCHOOL AND OFFICE SUPPLIES,734,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-16,SEAFOOD,0,1,Work Day,46.8,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,AUTOMOTIVE,0,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,BABY CARE,0,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,BEAUTY,46,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,BEVERAGES,1013,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,BOOKS,0,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,BREAD/BAKERY,440,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,CELEBRATION,1,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,CLEANING,725,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,DAIRY,663,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,DELI,349,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,EGGS,28,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,FROZEN FOODS,2,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,GROCERY I,2330,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,GROCERY II,0,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,HARDWARE,1,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,HOME AND KITCHEN I,29,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,HOME AND KITCHEN II,54,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,HOME APPLIANCES,0,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,HOME CARE,357,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,LADIESWEAR,36,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,LAWN AND GARDEN,1,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,LINGERIE,39,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,"LIQUOR,WINE,BEER",169,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,MAGAZINES,0,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,MEATS,485,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,PERSONAL CARE,472,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,PET SUPPLIES,1,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,PLAYERS AND ELECTRONICS,4,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,POULTRY,5,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,PREPARED FOODS,1,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,PRODUCE,112,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,SCHOOL AND OFFICE SUPPLIES,142,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-17,SEAFOOD,0,1,Work Day,47.07,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,AUTOMOTIVE,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,BABY CARE,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,BEAUTY,48,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,BEVERAGES,1014,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,BOOKS,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,BREAD/BAKERY,495,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,CELEBRATION,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,CLEANING,784,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,DAIRY,866,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,DELI,2982,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,EGGS,741,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,FROZEN FOODS,6,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,GROCERY I,2460,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,GROCERY II,1,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,HARDWARE,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,HOME AND KITCHEN I,38,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,HOME AND KITCHEN II,68,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,HOME APPLIANCES,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,HOME CARE,380,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,LADIESWEAR,38,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,LAWN AND GARDEN,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,LINGERIE,42,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,"LIQUOR,WINE,BEER",246,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,MAGAZINES,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,MEATS,1231,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,PERSONAL CARE,535,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,PET SUPPLIES,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,PLAYERS AND ELECTRONICS,8,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,POULTRY,1363,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,PREPARED FOODS,20,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,PRODUCE,141,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,SCHOOL AND OFFICE SUPPLIES,130,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-18,SEAFOOD,140,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,AUTOMOTIVE,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,BABY CARE,1,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,BEAUTY,54,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,BEVERAGES,1091,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,BOOKS,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,BREAD/BAKERY,503,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,CELEBRATION,2,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,CLEANING,867,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,DAIRY,897,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,DELI,411,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,EGGS,28,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,FROZEN FOODS,362,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,GROCERY I,2528,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,GROCERY II,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,HARDWARE,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,HOME AND KITCHEN I,39,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,HOME AND KITCHEN II,74,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,HOME APPLIANCES,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,HOME CARE,424,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,LADIESWEAR,71,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,LAWN AND GARDEN,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,LINGERIE,53,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,"LIQUOR,WINE,BEER",269,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,MAGAZINES,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,MEATS,2,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,PERSONAL CARE,579,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,PET SUPPLIES,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,PLAYERS AND ELECTRONICS,11,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,POULTRY,5,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,PREPARED FOODS,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,PRODUCE,153,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,SCHOOL AND OFFICE SUPPLIES,148,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-19,SEAFOOD,42,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,AUTOMOTIVE,1,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,BABY CARE,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,BEAUTY,51,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,BEVERAGES,1111,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,BOOKS,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,BREAD/BAKERY,1728,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,CELEBRATION,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,CLEANING,854,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,DAIRY,887,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,DELI,425,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,EGGS,27,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,FROZEN FOODS,1,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,GROCERY I,2533,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,GROCERY II,88,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,HARDWARE,1,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,HOME AND KITCHEN I,36,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,HOME AND KITCHEN II,72,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,HOME APPLIANCES,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,HOME CARE,436,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,LADIESWEAR,72,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,LAWN AND GARDEN,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,LINGERIE,57,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,"LIQUOR,WINE,BEER",210,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,MAGAZINES,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,MEATS,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,PERSONAL CARE,605,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,PET SUPPLIES,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,PLAYERS AND ELECTRONICS,7,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,POULTRY,7,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,PREPARED FOODS,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,PRODUCE,152,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,SCHOOL AND OFFICE SUPPLIES,152,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-20,SEAFOOD,0,1,Work Day,48.59,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,AUTOMOTIVE,0,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,BABY CARE,0,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,BEAUTY,53,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,BEVERAGES,1044,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,BOOKS,0,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,BREAD/BAKERY,514,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,CELEBRATION,0,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,CLEANING,812,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,DAIRY,860,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,DELI,408,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,EGGS,406,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,FROZEN FOODS,0,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,GROCERY I,2484,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,GROCERY II,0,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,HARDWARE,0,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,HOME AND KITCHEN I,31,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,HOME AND KITCHEN II,73,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,HOME APPLIANCES,0,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,HOME CARE,384,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,LADIESWEAR,33,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,LAWN AND GARDEN,0,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,LINGERIE,41,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,"LIQUOR,WINE,BEER",143,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,MAGAZINES,0,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,MEATS,3,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,PERSONAL CARE,557,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,PET SUPPLIES,0,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,PLAYERS AND ELECTRONICS,6,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,POULTRY,7,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,PREPARED FOODS,0,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,PRODUCE,96,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,SCHOOL AND OFFICE SUPPLIES,145,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-21,SEAFOOD,0,1,Work Day,47.39,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,AUTOMOTIVE,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,BABY CARE,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,BEAUTY,48,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,BEVERAGES,979,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,BOOKS,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,BREAD/BAKERY,522,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,CELEBRATION,1,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,CLEANING,765,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,DAIRY,873,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,DELI,403,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,EGGS,26,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,FROZEN FOODS,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,GROCERY I,2341,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,GROCERY II,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,HARDWARE,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,HOME AND KITCHEN I,27,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,HOME AND KITCHEN II,67,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,HOME APPLIANCES,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,HOME CARE,379,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,LADIESWEAR,28,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,LAWN AND GARDEN,31,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,LINGERIE,44,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,"LIQUOR,WINE,BEER",160,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,MAGAZINES,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,MEATS,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,PERSONAL CARE,550,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,PET SUPPLIES,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,PLAYERS AND ELECTRONICS,9,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,POULTRY,7,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,PREPARED FOODS,1,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,PRODUCE,2893,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,SCHOOL AND OFFICE SUPPLIES,141,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-22,SEAFOOD,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,AUTOMOTIVE,0,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,BABY CARE,0,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,BEAUTY,47,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,BEVERAGES,1248,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,BOOKS,0,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,BREAD/BAKERY,610,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,CELEBRATION,1,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,CLEANING,876,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,DAIRY,3471,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,DELI,416,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,EGGS,29,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,FROZEN FOODS,4,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,GROCERY I,2584,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,GROCERY II,0,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,HARDWARE,0,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,HOME AND KITCHEN I,26,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,HOME AND KITCHEN II,70,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,HOME APPLIANCES,0,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,HOME CARE,366,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,LADIESWEAR,32,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,LAWN AND GARDEN,163,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,LINGERIE,55,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,"LIQUOR,WINE,BEER",182,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,MAGAZINES,0,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,MEATS,0,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,PERSONAL CARE,649,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,PET SUPPLIES,1,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,PLAYERS AND ELECTRONICS,4,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,POULTRY,7,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,PREPARED FOODS,1,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,PRODUCE,5495,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,SCHOOL AND OFFICE SUPPLIES,157,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-23,SEAFOOD,6,1,Work Day,48.45,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,AUTOMOTIVE,1,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,BABY CARE,0,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,BEAUTY,25,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,BEVERAGES,1423,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,BOOKS,0,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,BREAD/BAKERY,346,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,CELEBRATION,0,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,CLEANING,807,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,DAIRY,463,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,DELI,405,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,EGGS,27,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,FROZEN FOODS,2,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,GROCERY I,2830,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,GROCERY II,0,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,HARDWARE,1,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,HOME AND KITCHEN I,38,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,HOME AND KITCHEN II,66,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,HOME APPLIANCES,0,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,HOME CARE,376,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,LADIESWEAR,35,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,LAWN AND GARDEN,1,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,LINGERIE,49,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,"LIQUOR,WINE,BEER",112,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,MAGAZINES,0,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,MEATS,497,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,PERSONAL CARE,521,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,PET SUPPLIES,0,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,PLAYERS AND ELECTRONICS,5,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,POULTRY,7,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,PREPARED FOODS,1,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,PRODUCE,85,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,SCHOOL AND OFFICE SUPPLIES,128,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-24,SEAFOOD,17,1,Holiday,47.24,Local,Ambato,Fundacion de Ambato,False,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,AUTOMOTIVE,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,BABY CARE,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,BEAUTY,32,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,BEVERAGES,1511,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,BOOKS,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,BREAD/BAKERY,355,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,CELEBRATION,1,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,CLEANING,805,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,DAIRY,514,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,DELI,2909,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,EGGS,750,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,FROZEN FOODS,8,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,GROCERY I,2906,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,GROCERY II,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,HARDWARE,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,HOME AND KITCHEN I,29,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,HOME AND KITCHEN II,70,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,HOME APPLIANCES,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,HOME CARE,381,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,LADIESWEAR,37,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,LAWN AND GARDEN,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,LINGERIE,45,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,"LIQUOR,WINE,BEER",149,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,MAGAZINES,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,MEATS,1247,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,PERSONAL CARE,529,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,PET SUPPLIES,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,PLAYERS AND ELECTRONICS,7,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,POULTRY,1348,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,PREPARED FOODS,20,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,PRODUCE,69,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,SCHOOL AND OFFICE SUPPLIES,139,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-25,SEAFOOD,130,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,AUTOMOTIVE,1,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,BABY CARE,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,BEAUTY,32,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,BEVERAGES,1532,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,BOOKS,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,BREAD/BAKERY,364,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,CELEBRATION,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,CLEANING,915,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,DAIRY,544,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,DELI,434,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,EGGS,28,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,FROZEN FOODS,379,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,GROCERY I,3076,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,GROCERY II,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,HARDWARE,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,HOME AND KITCHEN I,55,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,HOME AND KITCHEN II,77,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,HOME APPLIANCES,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,HOME CARE,414,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,LADIESWEAR,57,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,LAWN AND GARDEN,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,LINGERIE,53,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,"LIQUOR,WINE,BEER",160,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,MAGAZINES,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,MEATS,1,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,PERSONAL CARE,622,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,PET SUPPLIES,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,PLAYERS AND ELECTRONICS,9,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,POULTRY,11,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,PREPARED FOODS,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,PRODUCE,81,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,SCHOOL AND OFFICE SUPPLIES,152,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-26,SEAFOOD,64,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,AUTOMOTIVE,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,BABY CARE,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,BEAUTY,36,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,BEVERAGES,1599,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,BOOKS,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,BREAD/BAKERY,1811,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,CELEBRATION,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,CLEANING,931,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,DAIRY,570,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,DELI,430,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,EGGS,27,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,FROZEN FOODS,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,GROCERY I,3063,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,GROCERY II,75,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,HARDWARE,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,HOME AND KITCHEN I,30,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,HOME AND KITCHEN II,73,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,HOME APPLIANCES,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,HOME CARE,433,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,LADIESWEAR,72,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,LAWN AND GARDEN,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,LINGERIE,59,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,"LIQUOR,WINE,BEER",132,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,MAGAZINES,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,MEATS,2,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,PERSONAL CARE,683,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,PET SUPPLIES,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,PLAYERS AND ELECTRONICS,7,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,POULTRY,12,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,PREPARED FOODS,0,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,PRODUCE,78,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,SCHOOL AND OFFICE SUPPLIES,156,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-27,SEAFOOD,18,1,Work Day,47.65,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,AUTOMOTIVE,2,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,BABY CARE,0,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,BEAUTY,30,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,BEVERAGES,1469,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,BOOKS,0,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,BREAD/BAKERY,389,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,CELEBRATION,0,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,CLEANING,890,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,DAIRY,554,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,DELI,400,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,EGGS,392,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,FROZEN FOODS,1,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,GROCERY I,2979,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,GROCERY II,0,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,HARDWARE,0,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,HOME AND KITCHEN I,24,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,HOME AND KITCHEN II,70,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,HOME APPLIANCES,0,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,HOME CARE,278,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,LADIESWEAR,29,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,LAWN AND GARDEN,2,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,LINGERIE,48,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,"LIQUOR,WINE,BEER",61,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,MAGAZINES,0,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,MEATS,0,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,PERSONAL CARE,599,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,PET SUPPLIES,0,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,PLAYERS AND ELECTRONICS,8,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,POULTRY,12,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,PREPARED FOODS,0,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,PRODUCE,80,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,SCHOOL AND OFFICE SUPPLIES,155,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-28,SEAFOOD,17,1,Work Day,46.4,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,AUTOMOTIVE,0,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,BABY CARE,0,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,BEAUTY,29,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,BEVERAGES,1433,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,BOOKS,0,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,BREAD/BAKERY,344,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,CELEBRATION,2,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,CLEANING,870,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,DAIRY,630,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,DELI,403,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,EGGS,27,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,FROZEN FOODS,38,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,GROCERY I,2903,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,GROCERY II,0,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,HARDWARE,0,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,HOME AND KITCHEN I,35,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,HOME AND KITCHEN II,72,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,HOME APPLIANCES,0,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,HOME CARE,288,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,LADIESWEAR,45,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,LAWN AND GARDEN,26,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,LINGERIE,48,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,"LIQUOR,WINE,BEER",59,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,MAGAZINES,0,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,MEATS,1,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,PERSONAL CARE,571,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,PET SUPPLIES,0,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,PLAYERS AND ELECTRONICS,7,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,POULTRY,10,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,PREPARED FOODS,0,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,PRODUCE,2864,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,SCHOOL AND OFFICE SUPPLIES,153,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-29,SEAFOOD,18,1,Work Day,46.46,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,AUTOMOTIVE,7,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,BABY CARE,0,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,BEAUTY,29,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,BEVERAGES,2324,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,BOOKS,0,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,BREAD/BAKERY,502,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,CELEBRATION,11,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,CLEANING,1390,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,DAIRY,3349,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,DELI,549,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,EGGS,52,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,FROZEN FOODS,64,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,GROCERY I,5422,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,GROCERY II,8,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,HARDWARE,0,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,HOME AND KITCHEN I,60,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,HOME AND KITCHEN II,98,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,HOME APPLIANCES,0,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,HOME CARE,419,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,LADIESWEAR,38,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,LAWN AND GARDEN,184,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,LINGERIE,52,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,"LIQUOR,WINE,BEER",101,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,MAGAZINES,4,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,MEATS,53,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,PERSONAL CARE,708,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,PET SUPPLIES,3,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,PLAYERS AND ELECTRONICS,16,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,POULTRY,37,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,PREPARED FOODS,18,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,PRODUCE,5817,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,SCHOOL AND OFFICE SUPPLIES,150,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-30,SEAFOOD,26,1,Work Day,45.96,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,AUTOMOTIVE,7,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,BABY CARE,0,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,BEAUTY,30,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,BEVERAGES,1884,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,BOOKS,0,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,BREAD/BAKERY,414,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,CELEBRATION,8,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,CLEANING,1091,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,DAIRY,739,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,DELI,450,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,EGGS,43,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,FROZEN FOODS,47,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,GROCERY I,4455,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,GROCERY II,1,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,HARDWARE,0,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,HOME AND KITCHEN I,47,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,HOME AND KITCHEN II,91,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,HOME APPLIANCES,0,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,HOME CARE,267,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,LADIESWEAR,34,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,LAWN AND GARDEN,1,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,LINGERIE,62,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,"LIQUOR,WINE,BEER",89,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,MAGAZINES,2,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,MEATS,507,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,PERSONAL CARE,627,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,PET SUPPLIES,2,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,PLAYERS AND ELECTRONICS,1,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,POULTRY,21,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,PREPARED FOODS,6,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,PRODUCE,181,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,SCHOOL AND OFFICE SUPPLIES,155,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
+2017-08-31,SEAFOOD,19,1,Work Day,47.26,,,,,True,True,True,0,Quito,Pichincha,D,13
