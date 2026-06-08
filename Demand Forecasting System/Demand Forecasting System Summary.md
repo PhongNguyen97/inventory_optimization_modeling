@@ -110,6 +110,8 @@ $$\text{MAPE\_Better\_\%} = \frac{\text{MAPE}_{\text{Trad}} - \text{MAPE}_{\text
   * If the ML model improved validation set performance by **0% or more** (`MAPE_Better_% >= 0`), the ML model was selected.
   * Otherwise, the family fell back to the traditional statistical model.
 
+> **Important clarification:** The hybrid routing rule was used to identify the best-performing model family on the validation set. It should be interpreted as a validation-stage comparison rule, not an unconditional production-deployment rule. Final out-of-sample forecasting was subject to an additional feasibility and reliability audit before being used as input for inventory optimization.
+
 #### Model Comparison & Final Routing Metrics (`ml_trad_model_comparison.csv`)
 
 | Product Family | Traditional MAPE | ML MAPE | MAPE Improvement % | Selected Model Route |
@@ -132,10 +134,9 @@ Generated forecasts for the **16-day out-of-sample test period** (August 16 to A
 * **Feature Fusion Pipeline**:
   * Since the test set has no future `sales` values, lag and rolling features could not be calculated.
   * I fused the **static historical lags** (extracted from the last known training week in `weekly_features.csv`) with the **future known exogenous features** (promotions, oil prices, holiday counts) from the test set.
-* **The Core Technical Pivot (ML Fallback)**:
-  * **The Problem**: During testing, checks revealed that the saved XGBoost model files on disk were shallow/corrupted, predicting a fraction of actual sales volumes.
-  * **The Solution**: Implemented an automated fallback. I disabled ML routing for the out-of-sample period and routed **100% of the families** directly to their winning traditional statistical models from `best_models_per_family.csv`.
-  * **Weekly Forecast Generation**: Generated weekly projections utilizing the traditional pipeline (SARIMAX with test set exogenous inputs, Seasonal Naive, and Naive baselines). Saved to `test_predictions_weekly_edit_3.csv`.
+* **The Core Deployment Pivot: Traditional Fallback for Reliable Out-of-Sample Forecasting**:
+  * **The Core Deployment Pivot**: Although several machine learning models performed better during validation, the final out-of-sample forecasting stage required reliable saved model artifacts and operationally plausible forecast behavior. During test inference, the saved XGBoost model artifacts produced unreliable forecast volumes, indicating that the deployment path was not stable enough for downstream inventory optimization. Therefore, I disabled ML routing for the out-of-sample period and routed all product families to their best traditional statistical models.
+  * **Interpretation**: This pivot should not be interpreted as a general rejection of machine learning models. Instead, it was a deployment-risk decision. The validation results showed that ML models could capture useful nonlinear patterns, but the final inventory optimization pipeline required forecasts that were reproducible, stable, and operationally defensible.
 * **Daily Disaggregation Engine**:
   * Shopping volumes vary significantly by day of the week. Simply dividing weekly sales by 7 would result in inaccurate daily forecasts.
   * Developed a disaggregation engine:
@@ -160,6 +161,8 @@ To ensure statistical validity and prevent anomalous predictions, the final fore
 4. **Exogenous Cause-and-Effect Analysis**:
    * Verified that predicted sales peaks align logically with planned store promotions (`onpromotion`) and oil price trends.
 * **Output Plots**: Generated and saved detailed validation plots (such as `combined_decomposition_feasibility_*.png` and `yoy_growth_feasibility_*.png`) for all top product families under the `results/` folder.
+
+> **Interpretation Note on ML Forecast Auditing:** Feasibility audit is not a replacement for statistical validation metrics. It is an operational plausibility check. For nonlinear ML models, decomposition and YoY checks should not be interpreted as requiring the model to follow a linear additive structure. Instead, these checks are used to detect extreme discontinuities, implausible growth, or deployment-risk behavior before forecasts are used in inventory simulation.
 
 ---
 
