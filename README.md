@@ -64,6 +64,8 @@ This project addresses that decision problem by building a workflow that connect
 
 The project is based on retail store sales data from Favorita stores in Ecuador. The modeling workflow uses sales history together with relevant external and operational variables such as promotions, holidays, oil prices, and store metadata.
 
+[Data Source](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
+
 ### Forecasting Scope
 
 The forecasting system evaluates product-family demand patterns and generates future sales forecasts. The pipeline includes:
