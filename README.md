@@ -319,6 +319,18 @@ This avoids the unrealistic assumption that weekly demand should be divided even
 
 ---
 
+## Why the Final Out-of-Sample Forecast Uses Traditional Models
+
+During validation, several machine learning models achieved lower MAPE than the traditional statistical baselines. For example, XGBoost improved validation MAPE for selected product families such as BEVERAGES. However, the validation-stage winner was not automatically treated as the final deployment model.
+
+After model comparison, I added a feasibility audit to evaluate whether the forecasts were operationally reasonable for downstream inventory optimization. This audit checked visual continuity, seasonal plausibility, year-over-year growth behavior, and alignment with known exogenous drivers such as promotions and holidays.
+
+This does not mean that XGBoost was rejected simply because it is less interpretable than SARIMAX. XGBoost is a nonlinear tree-based model, so its forecast behavior should not be expected to decompose into trend, seasonality, and exogenous effects in the same way as a statistical time-series model. The feasibility audit was used as an operational risk-control step, not as a claim that nonlinear models must follow linear time-series assumptions.
+
+For the final out-of-sample forecast, I used the traditional statistical fallback route because the saved machine learning model artifacts showed unreliable inference behavior during test forecasting. Since these forecasts were later used as demand inputs for inventory optimization, I prioritized robustness, continuity, and operational interpretability over validation MAPE alone.
+
+---
+
 ## 2. Inventory Optimization System 📦
 
 The inventory optimization system converts weekly forecasts and forecast uncertainty into replenishment policy recommendations.
