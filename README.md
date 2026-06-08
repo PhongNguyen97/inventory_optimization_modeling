@@ -389,15 +389,7 @@ The risk period depends on the selected inventory policy:
 
 The policy optimization minimizes total cost subject to the fill-rate constraint:
 
-$$
-\min \; \text{Total Cost}
-=
-H_{week} \times \text{Average Inventory}
-+
-K \times \text{Number of Orders}
-+
-B \times \text{Units Short}
-$$
+$$\min \; \text{Total Cost}=H_{week} \times \text{Average Inventory}+K \times \text{Number of Orders}+B \times \text{Units Short}$$
 
 Subject to:
 
