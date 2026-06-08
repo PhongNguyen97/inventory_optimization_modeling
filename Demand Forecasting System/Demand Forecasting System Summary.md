@@ -103,7 +103,9 @@ Evaluated non-linear machine learning models capable of capturing multidimension
 ### 4. Hybrid Ensemble & Comparative Analysis (`final_model.ipynb`)
 To leverage the stability of traditional models and the precision of machine learning, a hybrid routing framework was constructed at the product-family level.
 * **Improvement Metric**: Quantified performance differences using the `MAPE_Better_%` metric:
-  $$\text{MAPE\_Better\_\%} = \frac{\text{MAPE}_{\text{Trad}} - \text{MAPE}_{\text{ML}}}{\text{MAPE}_{\text{Trad}}} \times 100$$
+
+$$\text{MAPE\_Better\_\%} = \frac{\text{MAPE}_{\text{Trad}} - \text{MAPE}_{\text{ML}}}{\text{MAPE}_{\text{Trad}}} \times 100$$
+
 * **Hybrid Routing Rule**: 
   * If the ML model improved validation set performance by **0% or more** (`MAPE_Better_% >= 0`), the ML model was selected.
   * Otherwise, the family fell back to the traditional statistical model.
