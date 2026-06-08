@@ -57,7 +57,9 @@ The foundation of the project focused on transforming raw transaction, store, oi
 * **Earthquake Shockwave Factor**: Created a continuous `days_since_earthquake` feature to model the immediate disruption and long-term recovery window following the massive April 16, 2016 Ecuador earthquake.
 * **Holiday Cleanup**: Cleansed the complex holiday register, correctly handling transferred holidays, weekend bridges, and national vs. local events.
 * **Periodicity & Cyclical Encoding**: Captured seasonal cycles by transforming day of week, day of month, and month using sine and cosine trigonometric functions:
-  $$\text{Feature}_{\sin} = \sin\left(\frac{2\pi \times \text{value}}{\text{period}}\right), \quad \text{Feature}_{\cos} = \cos\left(\frac{2\pi \times \text{value}}{\text{period}}\right)$$
+
+$$\text{Feature}_{\sin} = \sin\left(\frac{2\pi \times \text{value}}{\text{period}}\right), \quad \text{Feature}_{\cos} = \cos\left(\frac{2\pi \times \text{value}}{\text{period}}\right)$$
+
 * **Lag & Rolling Metrics**: Computed historical sales lag features (`lag_1`, `lag_4`, `rolling_mean_4`, etc.) at the family-store level.
 * **Aggregation**: Compiled and exported a consolidated weekly dataset (`weekly_features.csv`) and generated initial EDA plots (ACF/PACF, correlations, and distribution metrics).
 
