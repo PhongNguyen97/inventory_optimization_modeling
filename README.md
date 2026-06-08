@@ -311,13 +311,7 @@ This fallback decision prioritized reliable production inference over using a mo
 
 Although the inventory model uses weekly demand, the forecasting system also produced daily forecasts. Weekly forecasts were disaggregated into daily values using historical day-of-week sales weights:
 
-$$
-\text{Daily Forecast}_{family,t}
-=
-\text{Weekly Forecast}_{family,w}
-\times
-\text{Historical Day-of-Week Weight}_{family,dow(t)}
-$$
+$$\text{Daily Forecast}_{family,t}=\text{Weekly Forecast}_{family,w}\times\text{Historical Day-of-Week Weight}_{family,dow(t)}$$
 
 This avoids the unrealistic assumption that weekly demand should be divided evenly across seven days.
 
